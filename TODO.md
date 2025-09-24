@@ -1,0 +1,5 @@
+- [x] Update SupportedGameVersionETS2 to "1.56"
+- [x] Update SupportedGameVersionATS to "1.56"
+- [x] Update SupportedSavefileVersionETS2 to new int[] { 74, 74 }
+- [x] Uncomment and set SupportedSavefileVersionATS = new int[] { 74, 74 }
+- [x] Uncomment SupportedSavefileVersionATS in FormMain.cs

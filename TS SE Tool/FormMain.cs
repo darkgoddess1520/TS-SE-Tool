@@ -40,7 +40,7 @@ namespace TS_SE_Tool
 
         internal int[] SupportedSavefileVersionETS2; //Program
         internal string SupportedGameVersionETS2;//Program
-        //internal int SupportedSavefileVersionATS;
+        internal int[] SupportedSavefileVersionATS;
         internal string SupportedGameVersionATS;//Program
 
         private int JobsAmountAdded;//process result
